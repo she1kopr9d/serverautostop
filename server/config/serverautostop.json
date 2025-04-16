@@ -1,0 +1,7 @@
+{
+  "inactivityTimeout": 1,
+  "enabled": true,
+  "stopCommand": "stop",
+  "warningTime": 1,
+  "warningMessage": "Сервер будет остановлен через %d минут из-за отсутствия игроков"
+}
