@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Minecraft
+run/
+eclipse/
+logs/
+crash-reports/
+debug/
+local/
+versions/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# eclipse
+
+*.launch
+
+# idea
+
+*.hprof
+*.jfr

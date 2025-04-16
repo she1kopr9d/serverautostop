@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "serverautostop",
+	"version": "${version}",
+	"name": "Server Auto Stop",
+	"description": "Automatically stops the server after a period of inactivity",
+	"authors": [
+		"Your Name"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/serverautostop/icon.png",
+	"environment": "server",
+	"entrypoints": {
+		"main": [
+			"com.example.examplemod.ExampleMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
